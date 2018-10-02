@@ -18,3 +18,8 @@ body {
 }
 
 /* Write all remaining styles here */
+
+h1 a {
+  font-family: 'Basketville', serif;
+  color: rgb(152, 173, 166);
+}
